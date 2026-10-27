@@ -105,7 +105,7 @@
 * [CompStak](https://www.compstak.com/)
 * [Reonomy](https://www.reonomy.com/)
 * [HomesToCompare](https://www.homestocompare.com/)
-- **[The Trade Economy Index & Commercial Building Value Calculator](https://levelcfo.com/tools/building-value-calculator/)** - Benchmarks commercial property replacement value and annual HVAC, plumbing, roofing, electrical, elevator, and janitorial capex/opex across 9,084,887 US buildings and 366 metros ([TradesIndex](https://tradesindex.org) | [GitHub Data](https://github.com/levelcfo/trade-economy-index-data)).
+- **[The Trade Economy Index & Commercial Building Value Calculator](https://levelcfo.com/tools/building-revenue-calculator/)** - Benchmarks commercial property replacement value and annual HVAC, plumbing, roofing, electrical, elevator, and janitorial capex/opex across 9,084,887 US buildings and 366 metros ([TradesIndex](https://tradesindex.org) | [GitHub Data](https://github.com/levelcfo/trade-economy-index-data)).
 
 ### CRMs & Automation Tools
 
